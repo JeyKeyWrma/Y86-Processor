@@ -1,0 +1,73 @@
+$date
+	Thu Mar 09 04:43:19 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module PIPE $end
+$scope module m $end
+$var reg 64 ! \Data_Mem[0] [63:0] $end
+$upscope $end
+$upscope $end
+$scope module PIPE $end
+$scope module m $end
+$var reg 64 " \Data_Mem[1] [63:0] $end
+$upscope $end
+$upscope $end
+$scope module PIPE $end
+$scope module m $end
+$var reg 64 # \Data_Mem[2] [63:0] $end
+$upscope $end
+$upscope $end
+$scope module PIPE $end
+$scope module m $end
+$var reg 64 $ \Data_Mem[3] [63:0] $end
+$upscope $end
+$upscope $end
+$scope module PIPE $end
+$scope module m $end
+$var reg 64 % \Data_Mem[4] [63:0] $end
+$upscope $end
+$upscope $end
+$scope module PIPE $end
+$scope module m $end
+$var reg 64 & \Data_Mem[5] [63:0] $end
+$upscope $end
+$upscope $end
+$scope module PIPE $end
+$scope module m $end
+$var reg 64 ' \Data_Mem[6] [63:0] $end
+$upscope $end
+$upscope $end
+$scope module PIPE $end
+$scope module m $end
+$var reg 64 ( \Data_Mem[7] [63:0] $end
+$upscope $end
+$upscope $end
+$scope module PIPE $end
+$scope module m $end
+$var reg 64 ) \Data_Mem[8] [63:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b0 )
+b0 (
+b0 '
+b0 &
+b0 %
+b0 $
+b0 #
+b0 "
+b0 !
+$end
+#170
+b110010 $
+#510
